@@ -1,5 +1,1 @@
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello world this main branch plz");
-    }
-}
+public class HelloWorld {    public static void main(String[] args) {        System.out.println("Change from main branch");        System.out.println("Change from conflict-branch");    }}
